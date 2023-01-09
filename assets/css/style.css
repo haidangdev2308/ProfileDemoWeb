@@ -174,7 +174,7 @@ html {
 }
 
 #slider {
-    background: url('/assets/img/slider/kimi\ no\ na\ wa.mp4_snapshot_00.03_[2016.04.07_07.30.41].jpg') top center /cover no-repeat;
+    background: url('../img/slider/kimi\ no\ na\ wa.mp4_snapshot_00.03_[2016.04.07_07.30.41].jpg') top center /cover no-repeat;
     height: 56.25vw; 
     margin-top: 46px;
     filter: brightness(120%);
